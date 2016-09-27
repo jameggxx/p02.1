@@ -28,3 +28,7 @@ def run_tests():
 
 # Edit this function
 def factor_test(a, b):
+
+    if a == b:
+        print("a = b")
+    
